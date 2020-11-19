@@ -1,5 +1,6 @@
 //	Meni Ashurov 204064257
-//	Ido	Zeira 322607177ז
+//	Ido	Zeira 322607177
+//	Allen Bronshtein 206228751
 function constfuncs() {
 	var funcs = [];
 	for (var i = 0; i < 10; i++)
